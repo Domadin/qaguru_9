@@ -4,7 +4,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import pages.google.GoogleMainPage;
 
-public class GoogleTest {
+public class GoogleTest extends BaseTest {
 
     GoogleMainPage googlePage = new GoogleMainPage();
 
